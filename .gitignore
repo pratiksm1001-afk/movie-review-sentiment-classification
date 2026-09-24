@@ -1,7 +1,3 @@
-# Dataset files
-data/IMDB Dataset.csv
-IMDB dataset.zip
-
 # Python cache
 __pycache__/
 *.pyc

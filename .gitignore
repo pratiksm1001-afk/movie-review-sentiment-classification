@@ -1,0 +1,18 @@
+# Dataset files
+data/IMDB Dataset.csv
+IMDB dataset.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -16,3 +16,8 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Old unused model files
+models/label_encoder.pkl
+models/sentiment_model.keras
+models/tokenizer.pkl
